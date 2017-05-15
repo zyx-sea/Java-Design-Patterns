@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/command.iml" filepath="$PROJECT_DIR$/command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shaokao/shaokao.iml" filepath="$PROJECT_DIR$/shaokao/shaokao.iml" />
+    </modules>
+  </component>
+</project>
