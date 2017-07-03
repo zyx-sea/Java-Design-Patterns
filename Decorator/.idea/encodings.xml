@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/Breakfast.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Burger.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Cheese.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/CondimentDecorator.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Danbing.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Guojiang.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Ham.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Test.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Toast.java" charset="GB2312" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
